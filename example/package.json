@@ -21,7 +21,7 @@
     "react": "16.8.3",
     "react-native": "https://github.com/expo/react-native/archive/sdk-33.0.0.tar.gz",
     "react-native-iphone-x-helper": "^1.2.1",
-    "react-native-paper": "^2.15.2",
+    "react-native-paper": "^3.0.0",
     "react-navigation-drawer": "^2.0.1",
     "react-navigation-header-buttons": "^3.0.2",
     "react-navigation-stack": "^1.7.2",
