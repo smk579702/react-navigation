@@ -13,7 +13,7 @@
     "@react-native-community/masked-view": "^0.1.1",
     "@react-navigation/core": "^3.5.1",
     "@react-navigation/native": "^3.6.2",
-    "expo": "^33.0.7",
+    "expo": "^34.0.1",
     "expo-asset": "^5.0.1",
     "expo-blur": "~5.0.1",
     "expo-constants": "~5.0.1",
